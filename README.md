@@ -1,3 +1,3 @@
 # robofriends
 
-My first web using React!
+My first web app using React!
